@@ -1,0 +1,320 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+Opening the intranet website...
+Website opened.
+Downloading orders CSV file...
+Orders CSV file downloaded and read.
+Processing order 1...
+Modal closed successfully.
+Form filled successfully.
+An error occurred while previewing the robot: Message: element click intercepted: Element is not clickable at point (100, 727)
+  (Session info: chrome=126.0.6478.128)
+Stacktrace:
+	GetHandleVerifier [0x0076C203+27395]
+	(No symbol) [0x00703E04]
+	(No symbol) [0x00601B7F]
+	(No symbol) [0x00648C22]
+	(No symbol) [0x00646FA8]
+	(No symbol) [0x00644E2B]
+	(No symbol) [0x006443D7]
+	(No symbol) [0x0063918F]
+	(No symbol) [0x0066399C]
+	(No symbol) [0x00638C15]
+	(No symbol) [0x00663C34]
+	(No symbol) [0x0067CB24]
+	(No symbol) [0x00663736]
+	(No symbol) [0x00637541]
+	(No symbol) [0x006380BD]
+	GetHandleVerifier [0x00A23AB3+2876339]
+	GetHandleVerifier [0x00A77F7D+3221629]
+	GetHandleVerifier [0x007ED674+556916]
+	GetHandleVerifier [0x007F478C+585868]
+	(No symbol) [0x0070CE44]
+	(No symbol) [0x00709858]
+	(No symbol) [0x007099F7]
+	(No symbol) [0x006FBF4E]
+	BaseThreadInitThunk [0x75BF7BA9+25]
+	RtlInitializeExceptionChain [0x7794C10B+107]
+	RtlClearBits [0x7794C08F+191]
+
+Order submitted successfully.
+Receipt PDF saved successfully for order 1.
+Screenshot taken successfully for order 1.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 2...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 2.
+Screenshot taken successfully for order 2.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 3...
+Modal closed successfully.
+Form filled successfully.
+An error occurred while previewing the robot: Message: element click intercepted: Element is not clickable at point (100, 800)
+  (Session info: chrome=126.0.6478.128)
+Stacktrace:
+	GetHandleVerifier [0x0076C203+27395]
+	(No symbol) [0x00703E04]
+	(No symbol) [0x00601B7F]
+	(No symbol) [0x00648C22]
+	(No symbol) [0x00646FA8]
+	(No symbol) [0x00644E2B]
+	(No symbol) [0x006443D7]
+	(No symbol) [0x0063918F]
+	(No symbol) [0x0066399C]
+	(No symbol) [0x00638C15]
+	(No symbol) [0x00663C34]
+	(No symbol) [0x0067CB24]
+	(No symbol) [0x00663736]
+	(No symbol) [0x00637541]
+	(No symbol) [0x006380BD]
+	GetHandleVerifier [0x00A23AB3+2876339]
+	GetHandleVerifier [0x00A77F7D+3221629]
+	GetHandleVerifier [0x007ED674+556916]
+	GetHandleVerifier [0x007F478C+585868]
+	(No symbol) [0x0070CE44]
+	(No symbol) [0x00709858]
+	(No symbol) [0x007099F7]
+	(No symbol) [0x006FBF4E]
+	BaseThreadInitThunk [0x75BF7BA9+25]
+	RtlInitializeExceptionChain [0x7794C10B+107]
+	RtlClearBits [0x7794C08F+191]
+
+Order submitted successfully.
+Receipt PDF saved successfully for order 3.
+Screenshot taken successfully for order 3.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 4...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 4.
+Screenshot taken successfully for order 4.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 5...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 5: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 6...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 6.
+Screenshot taken successfully for order 6.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 7...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 7: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 8...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 8.
+Screenshot taken successfully for order 8.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 9...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 9.
+Screenshot taken successfully for order 9.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 10...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 10.
+Screenshot taken successfully for order 10.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 11...
+Modal closed successfully.
+An error occurred while filling the form: Message: element click intercepted: Element is not clickable at point (327, 589)
+  (Session info: chrome=126.0.6478.128)
+Stacktrace:
+	GetHandleVerifier [0x0076C203+27395]
+	(No symbol) [0x00703E04]
+	(No symbol) [0x00601B7F]
+	(No symbol) [0x00648C22]
+	(No symbol) [0x00646FA8]
+	(No symbol) [0x00644E2B]
+	(No symbol) [0x006443D7]
+	(No symbol) [0x0063918F]
+	(No symbol) [0x0066399C]
+	(No symbol) [0x00638C15]
+	(No symbol) [0x00663C34]
+	(No symbol) [0x0067CB24]
+	(No symbol) [0x00663736]
+	(No symbol) [0x00637541]
+	(No symbol) [0x006380BD]
+	GetHandleVerifier [0x00A23AB3+2876339]
+	GetHandleVerifier [0x00A77F7D+3221629]
+	GetHandleVerifier [0x007ED674+556916]
+	GetHandleVerifier [0x007F478C+585868]
+	(No symbol) [0x0070CE44]
+	(No symbol) [0x00709858]
+	(No symbol) [0x007099F7]
+	(No symbol) [0x006FBF4E]
+	BaseThreadInitThunk [0x75BF7BA9+25]
+	RtlInitializeExceptionChain [0x7794C10B+107]
+	RtlClearBits [0x7794C08F+191]
+
+An error occurred while previewing the robot: Message: element click intercepted: Element is not clickable at point (100, 797)
+  (Session info: chrome=126.0.6478.128)
+Stacktrace:
+	GetHandleVerifier [0x0076C203+27395]
+	(No symbol) [0x00703E04]
+	(No symbol) [0x00601B7F]
+	(No symbol) [0x00648C22]
+	(No symbol) [0x00646FA8]
+	(No symbol) [0x00644E2B]
+	(No symbol) [0x006443D7]
+	(No symbol) [0x0063918F]
+	(No symbol) [0x0066399C]
+	(No symbol) [0x00638C15]
+	(No symbol) [0x00663C34]
+	(No symbol) [0x0067CB24]
+	(No symbol) [0x00663736]
+	(No symbol) [0x00637541]
+	(No symbol) [0x006380BD]
+	GetHandleVerifier [0x00A23AB3+2876339]
+	GetHandleVerifier [0x00A77F7D+3221629]
+	GetHandleVerifier [0x007ED674+556916]
+	GetHandleVerifier [0x007F478C+585868]
+	(No symbol) [0x0070CE44]
+	(No symbol) [0x00709858]
+	(No symbol) [0x007099F7]
+	(No symbol) [0x006FBF4E]
+	BaseThreadInitThunk [0x75BF7BA9+25]
+	RtlInitializeExceptionChain [0x7794C10B+107]
+	RtlClearBits [0x7794C08F+191]
+
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 11: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 12...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 12.
+Screenshot taken successfully for order 12.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 13...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 13.
+Screenshot taken successfully for order 13.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 14...
+Modal closed successfully.
+Form filled successfully.
+An error occurred while previewing the robot: Message: element click intercepted: Element is not clickable at point (100, 814)
+  (Session info: chrome=126.0.6478.128)
+Stacktrace:
+	GetHandleVerifier [0x0076C203+27395]
+	(No symbol) [0x00703E04]
+	(No symbol) [0x00601B7F]
+	(No symbol) [0x00648C22]
+	(No symbol) [0x00646FA8]
+	(No symbol) [0x00644E2B]
+	(No symbol) [0x006443D7]
+	(No symbol) [0x0063918F]
+	(No symbol) [0x0066399C]
+	(No symbol) [0x00638C15]
+	(No symbol) [0x00663C34]
+	(No symbol) [0x0067CB24]
+	(No symbol) [0x00663736]
+	(No symbol) [0x00637541]
+	(No symbol) [0x006380BD]
+	GetHandleVerifier [0x00A23AB3+2876339]
+	GetHandleVerifier [0x00A77F7D+3221629]
+	GetHandleVerifier [0x007ED674+556916]
+	GetHandleVerifier [0x007F478C+585868]
+	(No symbol) [0x0070CE44]
+	(No symbol) [0x00709858]
+	(No symbol) [0x007099F7]
+	(No symbol) [0x006FBF4E]
+	BaseThreadInitThunk [0x75BF7BA9+25]
+	RtlInitializeExceptionChain [0x7794C10B+107]
+	RtlClearBits [0x7794C08F+191]
+
+Order submitted successfully.
+Receipt PDF saved successfully for order 14.
+Screenshot taken successfully for order 14.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 15...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 15: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 16...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 16: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 17...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 17: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 18...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 18: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Processing order 19...
+Modal not found.
+Form filled successfully.
+Robot previewed successfully.
+Order submitted successfully.
+Receipt PDF saved successfully for order 19.
+Screenshot taken successfully for order 19.
+Screenshot embedded into PDF successfully.
+Navigated to order another robot.
+Processing order 20...
+Modal closed successfully.
+Form filled successfully.
+Robot previewed successfully.
+An error occurred while submitting the order: Element 'xpath://*[@id='receipt']' not visible after 10 seconds.
+An error occurred while saving the receipt for order 20: Element with locator '//*[@id='receipt']' not found.
+An error occurred while trying to order another robot: Element with locator 'xpath://*[@id='order-another']' not found.
+Receipts archived to output/all_receipts.zip
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): d:\ABARNA DUTTA\RPA\robot-order\output\log.html
